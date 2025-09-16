@@ -1,3 +1,2 @@
 # git_test
-"Hello Odin"
-Hello, World!
+Testing my new Git Repo through a CLI
